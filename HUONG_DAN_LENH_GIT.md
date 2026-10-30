@@ -91,7 +91,7 @@ git commit -m "Thêm tên An vào danh sách thành viên"
 git commit                          # mở trình soạn thảo để viết thông điệp dài
 git commit -am "Sửa chữ trên nút lọc"   # add + commit các file ĐÃ được Git theo dõi (file mới thì không)
 ```
-
+              HHHHHHHHHHHHHHHHHHHHHHHH
 **Thông điệp commit tốt:** tiếng Việt có dấu, bắt đầu bằng động từ, dưới 72 ký tự, nói rõ làm gì.
 
 | Nên | Không nên |
